@@ -1,0 +1,20 @@
+{
+    "name": "votre_nom_utilisateurmediasystem237/ms-sms-package",
+    "description": "A simple PHP package for sending SMS via NEXAH BulkSMS API.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MySmsPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MEdia System",
+            "email": "contact@mediasystem.cm"
+        }
+    ],
+    "license": "MIT"
+}
